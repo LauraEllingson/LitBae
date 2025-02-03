@@ -1,6 +1,6 @@
 # LitBae
 
-LitBae is an app that allows users to search for books using Gutendex Api and Google Books Api. Books available through Gutendex will have download and share options. The app also features login, where users can save titles from their search results into a library. Future upgrades will include the option to categorize the library and add reviews. 
+LitBae is an app that allows users to search for books using Gutendex Api and Google Books Api. Books available through the Gutendex Api will have download and share options. The app also features login, where users can save titles from their search results into a library. Future upgrades will include the option to categorize the library and add reviews. 
 
 Features
 
